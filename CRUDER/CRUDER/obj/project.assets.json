@@ -13257,11 +13257,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Code\\SPRider\\asp-dot-net-core\\CRUDER\\CRUDER\\CRUDER\\CRUDER.csproj",
+      "projectUniqueName": "E:\\Code\\SPRider\\asp-dot-net-core\\CRUDER\\CRUDER\\CRUDER.csproj",
       "projectName": "CRUDER",
-      "projectPath": "E:\\Code\\SPRider\\asp-dot-net-core\\CRUDER\\CRUDER\\CRUDER\\CRUDER.csproj",
+      "projectPath": "E:\\Code\\SPRider\\asp-dot-net-core\\CRUDER\\CRUDER\\CRUDER.csproj",
       "packagesPath": "C:\\Users\\sysadmin\\.nuget\\packages\\",
-      "outputPath": "E:\\Code\\SPRider\\asp-dot-net-core\\CRUDER\\CRUDER\\CRUDER\\obj\\",
+      "outputPath": "E:\\Code\\SPRider\\asp-dot-net-core\\CRUDER\\CRUDER\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

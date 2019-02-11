@@ -15,9 +15,9 @@ namespace CRUDER.Controllers
 
             using (var context = new SchoolContext())
             {
-                var teacher = context.Teacher.Where(e => e.Name == "Matt").FirstOrDefault();
+                var teacher = context.Teacher;
 
-                foreach(Teacher teach in context.Teacher)
+                foreach (Teacher teach in teacher)
                 { 
                     teacherList.Add(teach);
                 }
