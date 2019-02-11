@@ -1,0 +1,11 @@
+E:\Code\SPRider\asp-dot-net-core\CRUDER\CRUDER\CRUDER\bin\Debug\netcoreapp2.0\CRUDER.deps.json
+E:\Code\SPRider\asp-dot-net-core\CRUDER\CRUDER\CRUDER\bin\Debug\netcoreapp2.0\CRUDER.runtimeconfig.json
+E:\Code\SPRider\asp-dot-net-core\CRUDER\CRUDER\CRUDER\bin\Debug\netcoreapp2.0\CRUDER.runtimeconfig.dev.json
+E:\Code\SPRider\asp-dot-net-core\CRUDER\CRUDER\CRUDER\bin\Debug\netcoreapp2.0\CRUDER.dll
+E:\Code\SPRider\asp-dot-net-core\CRUDER\CRUDER\CRUDER\obj\Debug\netcoreapp2.0\CRUDER.csprojResolveAssemblyReference.cache
+E:\Code\SPRider\asp-dot-net-core\CRUDER\CRUDER\CRUDER\obj\Debug\netcoreapp2.0\CRUDER.csproj.CoreCompileInputs.cache
+E:\Code\SPRider\asp-dot-net-core\CRUDER\CRUDER\CRUDER\obj\Debug\netcoreapp2.0\CRUDER.AssemblyInfoInputs.cache
+E:\Code\SPRider\asp-dot-net-core\CRUDER\CRUDER\CRUDER\obj\Debug\netcoreapp2.0\CRUDER.AssemblyInfo.cs
+E:\Code\SPRider\asp-dot-net-core\CRUDER\CRUDER\CRUDER\bin\Debug\netcoreapp2.0\CRUDER.pdb
+E:\Code\SPRider\asp-dot-net-core\CRUDER\CRUDER\CRUDER\obj\Debug\netcoreapp2.0\CRUDER.dll
+E:\Code\SPRider\asp-dot-net-core\CRUDER\CRUDER\CRUDER\obj\Debug\netcoreapp2.0\CRUDER.pdb
