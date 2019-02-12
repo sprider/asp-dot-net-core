@@ -1,0 +1,35 @@
+<h1>Feedbacks</h1>
+
+
+<ng-template #loading>
+    <p><em>Loading...</em></p>
+</ng-template>
+
+<p>Search</p>
+<input class="form-control" type="text" name="search" [(ngModel)]="filter" *ngIf="feedbacks">
+
+<table class='table' *ngIf="feedbacks && feedbacks.length > 0;else loading">
+    <thead>
+        <tr>
+            <th (click)="sort('Id')">Id</th>
+            <th (click)="sort('Comment')">Comment</th>
+            <th (click)="sort('Email')">Email</th>
+            <th (click)="sort('Created')">Created</th>
+            <th (click)="sort('Modified')">Modified</th>
+            <th (click)="sort('SourcePage')">Source Page</th>
+            <th (click)="sort('TenantID')">Tenant ID</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let feedback of feedbacks | orderBy: key : reverse | filter:filter | paginate: { itemsPerPage: 5, currentPage: p }">
+            <td>{{ feedback.Id }}</td>
+            <td>{{ feedback.Comment }}</td>
+            <td>{{ feedback.Email }}</td>
+            <td>{{ feedback.Created }}</td>
+            <td>{{ feedback.Modified }}</td>
+            <td>{{ feedback.SourcePage }}</td>
+            <td>{{ feedback.TenantID }}</td>
+        </tr>
+    </tbody>
+    <pagination-controls (pageChange)="p = $event"></pagination-controls>
+</table>
